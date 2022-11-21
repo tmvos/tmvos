@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tmvos.
+- 👀 I’m interested in kubernetes, python, infosec, automation.
+- 💞️ I’m looking to collaborate on cloud native open source projects.
